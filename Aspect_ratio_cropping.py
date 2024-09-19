@@ -1,3 +1,4 @@
+##Cambia la resolución de una imagen
 def convertir_resolucion(x, y):
     # Relación de aspecto 16:9
     nuevo_ancho = round(y * 16 / 9)

@@ -1,3 +1,4 @@
+##Calcular la presión total en un recipiente con dos tipos de moléculas
 def calculate_pressure(M1, M2, m1, m2, V, T):
     # Convertir temperatura a Kelvin
     T_kelvin = T + 273.15

@@ -1,3 +1,4 @@
+##Costo total de los mangos y la oferta
 def mango(quantity, price):
     # Calcular cuántos mangos se obtienen gratis
     free_mango_groups = quantity // 3

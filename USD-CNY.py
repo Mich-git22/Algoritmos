@@ -1,3 +1,4 @@
+##CONVIERTE USD A MONEDA CHINA
 def usdcny(usd):
     # Convertir USD a CNY
     cny = usd * 6.75
