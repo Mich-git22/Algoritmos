@@ -1,5 +1,6 @@
+###calcular el rango de edad recomendado basado en la edad actual
+ ###del usuario
 import math
-
 
 def age_range(age):
     if age > 14:

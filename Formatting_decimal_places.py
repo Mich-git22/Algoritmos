@@ -1,3 +1,4 @@
+###Redondea a dos decimales
 def format_number(num):
     # Redondear el número a dos decimales
     rounded_num = round(num, 2)

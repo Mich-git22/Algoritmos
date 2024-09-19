@@ -1,3 +1,5 @@
+###calcular cómo se desempeñaría un jugador durante un juego completo de 48
+### minutos basándose en su rendimiento actual
 def nba_extrap(ppg, mpg):
     # Si minutos por juego es 0, retorna 0
     if mpg == 0:
